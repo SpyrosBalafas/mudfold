@@ -1,0 +1,13 @@
+Package: mudfold
+Type: Package
+Title: Multiple UniDimensional unFOLDing
+Version: 1.1.0
+Date: 2017-12-11
+Authors@R: c(person("Spyros", "Balafas", email = "s.balafas@rug.nl", role = c("aut", "cre")),person("Wim", "Krijnen", role = "aut"),person("Wendy", "Post", role = "ctb"),person("Ernst", "Wit", role = "aut"))
+Description: Nonparametric item response theory (IRT) model for nonmonotonic IRFs, which is fruitful for scale analysis of proximity items.
+Depends: R (>= 3.3.3), yesno, gtools, zoo, ggplot2, reshape2, stats, utils
+License: GPL (>= 2)
+URL: http://www.math.rug.nl/stat/Main/HomePage
+Packaged: 2017-12-11 
+Maintainer: Spyros Balafas <s.balafas@rug.nl>
+Repository: CRAN
